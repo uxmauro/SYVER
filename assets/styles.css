@@ -26,8 +26,8 @@ main h3 {
 
 
 footer{
-    position: absolute;
     bottom: 100px;
+    margin-bottom: 80px;
 }
 .socials {
     display: flex;
